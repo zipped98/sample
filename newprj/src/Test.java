@@ -7,4 +7,8 @@ public class Test {
 	public static void main(String[] args) {
 		System.out.println("TEST");
 	}
+	
+	public String getMessage() {
+		return "GIT 의 장점은 무엇인가?";
+	}
 }
